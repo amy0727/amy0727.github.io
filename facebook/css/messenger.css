@@ -22,7 +22,13 @@
 		width: 270px;
 		height: 363px;
         right: 275px;
-    }
+	}
+	
+	.chatheader {
+		height: 70px;
+		line-height: 70px;
+		font-size: 20px;
+	}
 }
 
 .pesan_chat {
