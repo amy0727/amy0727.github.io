@@ -19,6 +19,8 @@
 
 @media screen and (min-width: 1000px) {
     .chat_box {
+		width: 540px;
+		height: 720px;
         right: 275px;
     }
 }
