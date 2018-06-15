@@ -29,6 +29,12 @@
 		line-height: 70px;
 		font-size: 20px;
 	}
+
+	.close-chatfb {
+		height: 70px;
+		line-height: 70px;
+		font-size: 20px;
+	}
 }
 
 .pesan_chat {
