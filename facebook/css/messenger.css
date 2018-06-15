@@ -2,8 +2,8 @@
 
 .chat_box {
 	background: #fff;
-	width: 270px;
-	height: 363px;
+	width: 540px;
+	height: 720px;
 	position: fixed;
 	bottom: 0px;
 	right: 14px;
@@ -19,8 +19,8 @@
 
 @media screen and (min-width: 1000px) {
     .chat_box {
-		width: 540px;
-		height: 720px;
+		width: 270px;
+		height: 363px;
         right: 275px;
     }
 }
