@@ -24,7 +24,9 @@ $(function() {
 		$('#fb_msg').removeClass('popup-on');
     });
     
-	$('#fb_msg').addClass('popup-on');
+	// $('#fb_msg').addClass('popup-on');
+
+	alert(window.innerWidth);
 
 	// setTimeout(function() {
 	// 	$('#fb_msg').addClass('popup-on');
